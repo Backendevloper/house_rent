@@ -6,9 +6,8 @@ This is a Ruby on Rails application for managing house rentals and sales.
 
 Make sure you have the following installed:
 
-- Ruby [version]
-- Rails [version]
-- [Other dependencies, e.g., database system]
+- Ruby 
+- Rails
 
 ## Getting Started
 
